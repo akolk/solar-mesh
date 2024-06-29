@@ -1,0 +1,32 @@
+serve:
+  port: 80
+  browser: false
+  playground: true
+  endpoint: /solaredge
+  playgroundTitle: Solar Edge Playground
+
+sources:
+  - name: SOLAR
+    handler:
+      jsonSchema:
+        endpoint: https://monitoringapi.solaredge.com/
+        queryParams:
+          api_key: '{env.SOLAREDGE_KEY}'
+        operations:
+          - type: Query
+            field: Sites
+            path: /sites/list.json
+            method: GET
+            responseSample: ./jsons/SiteList.response.json
+            responseTypeName: SiteList
+          - type: Query
+            field: SiteDetails
+            path: /site/{env.SOLAREDGE_SITEID}/details.json
+            method: GET
+            responseSample: ./jsons/SiteDetails.response.json
+            responseTypeName: SiteDetail
+            
+    transforms:
+      - prefix:
+          value: SOLAR
+          includeRootOperations: true
