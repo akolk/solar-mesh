@@ -1,0 +1,42 @@
+{
+  "sites": {
+    "count": 1,
+    "site": [
+      {
+        "id": 3682637,
+        "name": "20230310 Ugchelen - Kolk",
+        "accountId": 66315,
+        "status": "Active",
+        "peakPower": 7.38,
+        "lastUpdateTime": "2024-06-29",
+        "currency": "EUR",
+        "installationDate": "2023-05-26",
+        "ptoDate": null,
+        "notes": "",
+        "type": "Optimizers & Inverters",
+        "location": {
+          "country": "Netherlands",
+          "city": "Ugchelen",
+          "address": "Richtersweg 26B",
+          "zip": "7339 AB",
+          "timeZone": "Europe/Amsterdam",
+          "countryCode": "NL"
+        },
+        "primaryModule": {
+          "manufacturerName": "SunPower",
+          "modelName": "SPR-P6-410",
+          "maximumPower": 410,
+          "temperatureCoef": -0.34
+        },
+        "uris": {
+          "DETAILS": "/site/3682637/details",
+          "DATA_PERIOD": "/site/3682637/dataPeriod",
+          "OVERVIEW": "/site/3682637/overview"
+        },
+        "publicSettings": {
+          "isPublic": false
+        }
+      }
+    ]
+  }
+}
