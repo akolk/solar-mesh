@@ -1,0 +1,3899 @@
+{
+  "data": {
+    "count": 195,
+    "telemetries": [
+      {
+        "date": "2024-06-29 00:05:54",
+        "totalActivePower": 0,
+        "dcVoltage": null,
+        "powerLimit": 100,
+        "totalEnergy": 4825180,
+        "temperature": 28.3995,
+        "inverterMode": "SLEEPING",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 233.752,
+          "acFrequency": 49.9598,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 05:00:53",
+        "totalActivePower": 0,
+        "dcVoltage": 4.95178,
+        "powerLimit": 100,
+        "totalEnergy": 4825180,
+        "temperature": 24.9523,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 234.567,
+          "acFrequency": 49.9653,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 05:05:53",
+        "totalActivePower": 0,
+        "dcVoltage": 18.1266,
+        "powerLimit": 100,
+        "totalEnergy": 4825180,
+        "temperature": 25.692,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 234.387,
+          "acFrequency": 49.9622,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 05:10:53",
+        "totalActivePower": 0,
+        "dcVoltage": 18.954,
+        "powerLimit": 100,
+        "totalEnergy": 4825180,
+        "temperature": 25.626,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 234.88,
+          "acFrequency": 50.0068,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 05:15:53",
+        "totalActivePower": 0,
+        "dcVoltage": 53.4275,
+        "powerLimit": 100,
+        "totalEnergy": 4825180,
+        "temperature": 26.0811,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 234.569,
+          "acFrequency": 49.9999,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 05:20:53",
+        "totalActivePower": 0,
+        "dcVoltage": 215.31,
+        "powerLimit": 100,
+        "totalEnergy": 4825180,
+        "temperature": 26.2626,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 234.843,
+          "acFrequency": 50.0104,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 05:25:53",
+        "totalActivePower": 0,
+        "dcVoltage": 267.337,
+        "powerLimit": 100,
+        "totalEnergy": 4825180,
+        "temperature": 26.4209,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 234.952,
+          "acFrequency": 50.0027,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 05:30:53",
+        "totalActivePower": 0,
+        "dcVoltage": 338.396,
+        "powerLimit": 100,
+        "totalEnergy": 4825180,
+        "temperature": 27.1923,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 235.178,
+          "acFrequency": 49.9982,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 05:35:53",
+        "totalActivePower": 0,
+        "dcVoltage": 371.167,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825180,
+        "temperature": 27.0933,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 235.156,
+          "acFrequency": 50.0072,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 05:40:53",
+        "totalActivePower": 5.083,
+        "dcVoltage": 370.796,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825180,
+        "temperature": 29.8466,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.352367,
+          "acVoltage": 235.54,
+          "acFrequency": 50.0283,
+          "apparentPower": 83.0407,
+          "activePower": 5.083,
+          "reactivePower": 82.885,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 05:45:53",
+        "totalActivePower": 25.9476,
+        "dcVoltage": 370.009,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825180,
+        "temperature": 29.4742,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.363064,
+          "acVoltage": 235.721,
+          "acFrequency": 50.0155,
+          "apparentPower": 85.6994,
+          "activePower": 25.9476,
+          "reactivePower": 81.6769,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 05:50:53",
+        "totalActivePower": 52.534,
+        "dcVoltage": 370.271,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825180,
+        "temperature": 31.5508,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.414369,
+          "acVoltage": 236.248,
+          "acFrequency": 50.0121,
+          "apparentPower": 97.891,
+          "activePower": 52.534,
+          "reactivePower": 82.6004,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 05:55:53",
+        "totalActivePower": 87.8015,
+        "dcVoltage": 370.303,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825190,
+        "temperature": 32.0247,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.504261,
+          "acVoltage": 235.501,
+          "acFrequency": 49.9987,
+          "apparentPower": 118.732,
+          "activePower": 87.8015,
+          "reactivePower": 79.9268,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 06:00:53",
+        "totalActivePower": 107.788,
+        "dcVoltage": 370.026,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825200,
+        "temperature": 32.3464,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.550222,
+          "acVoltage": 235.716,
+          "acFrequency": 49.974,
+          "apparentPower": 129.81,
+          "activePower": 107.788,
+          "reactivePower": 72.3354,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 06:05:53",
+        "totalActivePower": 119.601,
+        "dcVoltage": 370.163,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825200,
+        "temperature": 32.6225,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.597346,
+          "acVoltage": 236.26,
+          "acFrequency": 49.9739,
+          "apparentPower": 141.293,
+          "activePower": 119.601,
+          "reactivePower": 75.2294,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 06:10:53",
+        "totalActivePower": 132.343,
+        "dcVoltage": 369.957,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825220,
+        "temperature": 32.8397,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.652323,
+          "acVoltage": 236.44,
+          "acFrequency": 49.9923,
+          "apparentPower": 154.47,
+          "activePower": 132.343,
+          "reactivePower": 79.664,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 06:15:53",
+        "totalActivePower": 138.483,
+        "dcVoltage": 369.842,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825230,
+        "temperature": 33.0215,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.67385,
+          "acVoltage": 236.966,
+          "acFrequency": 49.9858,
+          "apparentPower": 159.661,
+          "activePower": 138.483,
+          "reactivePower": 79.4614,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 06:20:53",
+        "totalActivePower": 164.235,
+        "dcVoltage": 369.824,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825240,
+        "temperature": 33.1475,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.772584,
+          "acVoltage": 236.58,
+          "acFrequency": 49.9945,
+          "apparentPower": 182.764,
+          "activePower": 164.235,
+          "reactivePower": 80.1833,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 06:25:53",
+        "totalActivePower": 178.685,
+        "dcVoltage": 369.954,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825260,
+        "temperature": 33.2641,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.830178,
+          "acVoltage": 237.002,
+          "acFrequency": 50.0087,
+          "apparentPower": 196.724,
+          "activePower": 178.685,
+          "reactivePower": 82.2903,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 06:30:53",
+        "totalActivePower": 147.951,
+        "dcVoltage": 369.881,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825270,
+        "temperature": 33.3764,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.71037,
+          "acVoltage": 236.64,
+          "acFrequency": 49.9796,
+          "apparentPower": 168.123,
+          "activePower": 147.951,
+          "reactivePower": 79.8489,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 06:35:53",
+        "totalActivePower": 176.013,
+        "dcVoltage": 369.621,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825280,
+        "temperature": 33.4532,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.82024,
+          "acVoltage": 237.04,
+          "acFrequency": 50.0111,
+          "apparentPower": 194.491,
+          "activePower": 176.013,
+          "reactivePower": 82.7411,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 06:40:53",
+        "totalActivePower": 214.966,
+        "dcVoltage": 369.691,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825300,
+        "temperature": 33.5142,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.972754,
+          "acVoltage": 236.922,
+          "acFrequency": 50.011,
+          "apparentPower": 230.489,
+          "activePower": 214.966,
+          "reactivePower": 83.1554,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 06:45:53",
+        "totalActivePower": 262.797,
+        "dcVoltage": 369.469,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825320,
+        "temperature": 33.5441,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 1.16448,
+          "acVoltage": 237.075,
+          "acFrequency": 49.9822,
+          "apparentPower": 275.885,
+          "activePower": 262.797,
+          "reactivePower": 83.9631,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 06:50:53",
+        "totalActivePower": 266.111,
+        "dcVoltage": 369.205,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825340,
+        "temperature": 33.5779,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 1.17459,
+          "acVoltage": 237.507,
+          "acFrequency": 50.0209,
+          "apparentPower": 278.924,
+          "activePower": 266.111,
+          "reactivePower": 83.5697,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 06:55:53",
+        "totalActivePower": 307.66,
+        "dcVoltage": 369.613,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825370,
+        "temperature": 33.6098,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 1.34729,
+          "acVoltage": 238.018,
+          "acFrequency": 49.9941,
+          "apparentPower": 320.758,
+          "activePower": 307.66,
+          "reactivePower": 90.7278,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 07:00:53",
+        "totalActivePower": 339.85,
+        "dcVoltage": 370.309,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825400,
+        "temperature": 33.6259,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 1.47486,
+          "acVoltage": 238.414,
+          "acFrequency": 49.9898,
+          "apparentPower": 351.979,
+          "activePower": 339.85,
+          "reactivePower": 91.6026,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 07:05:53",
+        "totalActivePower": 350.127,
+        "dcVoltage": 370.262,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825430,
+        "temperature": 33.65,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 1.52281,
+          "acVoltage": 236.929,
+          "acFrequency": 49.9632,
+          "apparentPower": 360.857,
+          "activePower": 350.127,
+          "reactivePower": 87.3439,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 07:10:53",
+        "totalActivePower": 496.552,
+        "dcVoltage": 370.196,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825460,
+        "temperature": 33.6462,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 2.11758,
+          "acVoltage": 237.984,
+          "acFrequency": 50.0129,
+          "apparentPower": 504.04,
+          "activePower": 496.552,
+          "reactivePower": 86.5576,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 07:15:53",
+        "totalActivePower": 680.909,
+        "dcVoltage": 369.682,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825510,
+        "temperature": 33.6446,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 2.87468,
+          "acVoltage": 238.929,
+          "acFrequency": 49.9905,
+          "apparentPower": 687.21,
+          "activePower": 680.909,
+          "reactivePower": 92.8483,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 07:20:53",
+        "totalActivePower": 712.083,
+        "dcVoltage": 370.395,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825570,
+        "temperature": 33.6692,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 2.99825,
+          "acVoltage": 239.286,
+          "acFrequency": 49.9922,
+          "apparentPower": 717.365,
+          "activePower": 712.083,
+          "reactivePower": 86.894,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 07:25:53",
+        "totalActivePower": 688.382,
+        "dcVoltage": 370.225,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825630,
+        "temperature": 33.6936,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 2.90953,
+          "acVoltage": 238.643,
+          "acFrequency": 49.9892,
+          "apparentPower": 694.615,
+          "activePower": 688.382,
+          "reactivePower": 92.8444,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 07:30:53",
+        "totalActivePower": 800.691,
+        "dcVoltage": 369.8,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825690,
+        "temperature": 33.7156,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 3.3743,
+          "acVoltage": 238.705,
+          "acFrequency": 49.9883,
+          "apparentPower": 805.406,
+          "activePower": 800.691,
+          "reactivePower": 87.0154,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 07:35:53",
+        "totalActivePower": 732.646,
+        "dcVoltage": 369.83,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825760,
+        "temperature": 33.76,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 3.08814,
+          "acVoltage": 238.588,
+          "acFrequency": 49.9867,
+          "apparentPower": 738.085,
+          "activePower": 732.646,
+          "reactivePower": 89.442,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 07:40:53",
+        "totalActivePower": 883.28,
+        "dcVoltage": 370.195,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825830,
+        "temperature": 33.7757,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 3.71216,
+          "acVoltage": 239.074,
+          "acFrequency": 50.038,
+          "apparentPower": 887.853,
+          "activePower": 883.28,
+          "reactivePower": 90.0004,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 07:45:53",
+        "totalActivePower": 1032.85,
+        "dcVoltage": 369.847,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825900,
+        "temperature": 33.8363,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 4.33474,
+          "acVoltage": 239.333,
+          "acFrequency": 50.0076,
+          "apparentPower": 1036.95,
+          "activePower": 1032.85,
+          "reactivePower": 92.0925,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 07:50:53",
+        "totalActivePower": 821.019,
+        "dcVoltage": 369.893,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4825980,
+        "temperature": 33.8474,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 3.44356,
+          "acVoltage": 239.86,
+          "acFrequency": 49.994,
+          "apparentPower": 825.902,
+          "activePower": 821.019,
+          "reactivePower": 89.6845,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 07:55:53",
+        "totalActivePower": 703.852,
+        "dcVoltage": 370.18,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4826040,
+        "temperature": 33.8493,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 2.97056,
+          "acVoltage": 238.851,
+          "acFrequency": 49.9832,
+          "apparentPower": 710.107,
+          "activePower": 703.852,
+          "reactivePower": 94.0443,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 08:00:53",
+        "totalActivePower": 929.28,
+        "dcVoltage": 369.933,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4826120,
+        "temperature": 33.9245,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 3.93816,
+          "acVoltage": 237.084,
+          "acFrequency": 50.0189,
+          "apparentPower": 933.34,
+          "activePower": 929.28,
+          "reactivePower": 86.9532,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 08:05:53",
+        "totalActivePower": 662.683,
+        "dcVoltage": 370.121,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4826180,
+        "temperature": 33.9207,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 2.85376,
+          "acVoltage": 234.506,
+          "acFrequency": 49.9762,
+          "apparentPower": 668.962,
+          "activePower": 662.683,
+          "reactivePower": 91.4415,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 08:10:53",
+        "totalActivePower": 631.509,
+        "dcVoltage": 370.237,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4826230,
+        "temperature": 33.917,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 2.72886,
+          "acVoltage": 233.647,
+          "acFrequency": 50.0112,
+          "apparentPower": 637.936,
+          "activePower": 631.509,
+          "reactivePower": 90.3226,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 08:15:53",
+        "totalActivePower": 1276.28,
+        "dcVoltage": 369.988,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4826330,
+        "temperature": 34.1197,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 5.43604,
+          "acVoltage": 235.162,
+          "acFrequency": 49.9744,
+          "apparentPower": 1279.59,
+          "activePower": 1276.28,
+          "reactivePower": 91.9416,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 08:20:53",
+        "totalActivePower": 1483.53,
+        "dcVoltage": 369.797,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4826460,
+        "temperature": 34.3872,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 6.31885,
+          "acVoltage": 235.325,
+          "acFrequency": 49.9975,
+          "apparentPower": 1486.64,
+          "activePower": 1483.53,
+          "reactivePower": 96.1987,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 08:25:53",
+        "totalActivePower": 1311.82,
+        "dcVoltage": 369.958,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4826580,
+        "temperature": 34.4582,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 5.61846,
+          "acVoltage": 233.951,
+          "acFrequency": 50.0239,
+          "apparentPower": 1314.87,
+          "activePower": 1311.82,
+          "reactivePower": 89.5462,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 08:30:53",
+        "totalActivePower": 1446.25,
+        "dcVoltage": 369.017,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4826700,
+        "temperature": 34.5909,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 6.19055,
+          "acVoltage": 233.884,
+          "acFrequency": 50.0016,
+          "apparentPower": 1449.37,
+          "activePower": 1446.25,
+          "reactivePower": 94.9986,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 08:35:53",
+        "totalActivePower": 1621.61,
+        "dcVoltage": 370.149,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4826830,
+        "temperature": 34.7453,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 6.90044,
+          "acVoltage": 235.301,
+          "acFrequency": 50.0109,
+          "apparentPower": 1624.25,
+          "activePower": 1621.61,
+          "reactivePower": 92.5442,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 08:40:53",
+        "totalActivePower": 1746.06,
+        "dcVoltage": 370.257,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4826970,
+        "temperature": 34.9501,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 7.39721,
+          "acVoltage": 236.405,
+          "acFrequency": 50.0155,
+          "apparentPower": 1748.68,
+          "activePower": 1746.06,
+          "reactivePower": 95.7486,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 08:45:53",
+        "totalActivePower": 1882.67,
+        "dcVoltage": 369.892,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4827130,
+        "temperature": 35.1797,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 7.96285,
+          "acVoltage": 236.678,
+          "acFrequency": 49.9872,
+          "apparentPower": 1884.88,
+          "activePower": 1882.67,
+          "reactivePower": 91.0859,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 08:50:53",
+        "totalActivePower": 1574.41,
+        "dcVoltage": 369.594,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4827270,
+        "temperature": 35.1639,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 6.69709,
+          "acVoltage": 235.328,
+          "acFrequency": 50.0119,
+          "apparentPower": 1576.92,
+          "activePower": 1574.41,
+          "reactivePower": 88.9414,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 08:55:53",
+        "totalActivePower": 1745.83,
+        "dcVoltage": 370.046,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4827420,
+        "temperature": 35.3397,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 7.41519,
+          "acVoltage": 235.807,
+          "acFrequency": 50.0095,
+          "apparentPower": 1748.24,
+          "activePower": 1745.83,
+          "reactivePower": 91.7837,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 09:00:53",
+        "totalActivePower": 1094.92,
+        "dcVoltage": 369.973,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4827550,
+        "temperature": 35.1855,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 4.74301,
+          "acVoltage": 231.494,
+          "acFrequency": 49.9838,
+          "apparentPower": 1097.86,
+          "activePower": 1094.92,
+          "reactivePower": 80.3108,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 09:05:53",
+        "totalActivePower": 2185.05,
+        "dcVoltage": 369.988,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4827720,
+        "temperature": 35.8016,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 9.26774,
+          "acVoltage": 236.006,
+          "acFrequency": 50.0024,
+          "apparentPower": 2187.26,
+          "activePower": 2185.05,
+          "reactivePower": 98.4557,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 09:10:53",
+        "totalActivePower": 2035.61,
+        "dcVoltage": 370.012,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4827880,
+        "temperature": 35.8756,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 8.68391,
+          "acVoltage": 234.684,
+          "acFrequency": 49.9839,
+          "apparentPower": 2037.84,
+          "activePower": 2035.61,
+          "reactivePower": 95.1671,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 09:15:53",
+        "totalActivePower": 1739.11,
+        "dcVoltage": 370.218,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4828020,
+        "temperature": 35.6215,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 7.44473,
+          "acVoltage": 233.492,
+          "acFrequency": 49.9777,
+          "apparentPower": 1741.6,
+          "activePower": 1739.11,
+          "reactivePower": 93.0345,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 09:20:53",
+        "totalActivePower": 1902.74,
+        "dcVoltage": 369.951,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4828190,
+        "temperature": 36.0321,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 8.01696,
+          "acVoltage": 237.397,
+          "acFrequency": 50.0294,
+          "apparentPower": 1904.91,
+          "activePower": 1902.74,
+          "reactivePower": 90.902,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 09:25:53",
+        "totalActivePower": 2007.09,
+        "dcVoltage": 369.975,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4828340,
+        "temperature": 36.1287,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 8.47111,
+          "acVoltage": 237.107,
+          "acFrequency": 50.0146,
+          "apparentPower": 2009.2,
+          "activePower": 2007.09,
+          "reactivePower": 92.154,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 09:30:53",
+        "totalActivePower": 1378.4,
+        "dcVoltage": 369.99,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4828490,
+        "temperature": 35.8748,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 5.84226,
+          "acVoltage": 236.493,
+          "acFrequency": 50.0008,
+          "apparentPower": 1381.04,
+          "activePower": 1378.4,
+          "reactivePower": 85.3482,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 09:35:53",
+        "totalActivePower": 1553.05,
+        "dcVoltage": 370.158,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4828630,
+        "temperature": 35.9979,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 6.577,
+          "acVoltage": 236.289,
+          "acFrequency": 50.0119,
+          "apparentPower": 1555.44,
+          "activePower": 1553.05,
+          "reactivePower": 86.2462,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 09:40:53",
+        "totalActivePower": 1707.97,
+        "dcVoltage": 369.994,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4828780,
+        "temperature": 36.099,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 7.19903,
+          "acVoltage": 237.574,
+          "acFrequency": 50.0158,
+          "apparentPower": 1710.36,
+          "activePower": 1707.97,
+          "reactivePower": 90.3695,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 09:45:53",
+        "totalActivePower": 2039.67,
+        "dcVoltage": 370.491,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4828950,
+        "temperature": 36.2992,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 8.58552,
+          "acVoltage": 237.623,
+          "acFrequency": 49.9769,
+          "apparentPower": 2041.85,
+          "activePower": 2039.67,
+          "reactivePower": 94.4554,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 09:50:53",
+        "totalActivePower": 2527.37,
+        "dcVoltage": 369.854,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4829150,
+        "temperature": 36.8854,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 10.6625,
+          "acVoltage": 237.485,
+          "acFrequency": 49.9879,
+          "apparentPower": 2529.46,
+          "activePower": 2527.37,
+          "reactivePower": 102.746,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 09:55:53",
+        "totalActivePower": 2646.98,
+        "dcVoltage": 370.453,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4829360,
+        "temperature": 37.1281,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 11.1174,
+          "acVoltage": 238.103,
+          "acFrequency": 50.0209,
+          "apparentPower": 2648.82,
+          "activePower": 2646.98,
+          "reactivePower": 98.8519,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 10:00:53",
+        "totalActivePower": 2205.37,
+        "dcVoltage": 370.206,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4829570,
+        "temperature": 37.1049,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 9.27893,
+          "acVoltage": 237.54,
+          "acFrequency": 50.0129,
+          "apparentPower": 2207.52,
+          "activePower": 2205.37,
+          "reactivePower": 97.4456,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 10:05:53",
+        "totalActivePower": 2596.84,
+        "dcVoltage": 370.239,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4829760,
+        "temperature": 37.4678,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 10.8693,
+          "acVoltage": 238.716,
+          "acFrequency": 50.0126,
+          "apparentPower": 2598.91,
+          "activePower": 2596.84,
+          "reactivePower": 103.922,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 10:10:53",
+        "totalActivePower": 2901.6,
+        "dcVoltage": 370.461,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4830000,
+        "temperature": 37.9624,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 12.2019,
+          "acVoltage": 237.673,
+          "acFrequency": 50.0304,
+          "apparentPower": 2903.07,
+          "activePower": 2901.6,
+          "reactivePower": 92.2797,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 10:15:53",
+        "totalActivePower": 3010.27,
+        "dcVoltage": 370.402,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4830250,
+        "temperature": 38.4208,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 12.6425,
+          "acVoltage": 237.897,
+          "acFrequency": 49.9795,
+          "apparentPower": 3012.01,
+          "activePower": 3010.27,
+          "reactivePower": 102.403,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 10:20:53",
+        "totalActivePower": 3058.53,
+        "dcVoltage": 369.992,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4830500,
+        "temperature": 38.77,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 12.7448,
+          "acVoltage": 240.068,
+          "acFrequency": 50.0062,
+          "apparentPower": 3060.28,
+          "activePower": 3058.53,
+          "reactivePower": 103.34,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 10:25:53",
+        "totalActivePower": 2976.29,
+        "dcVoltage": 369.422,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4830760,
+        "temperature": 39.0276,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 12.3898,
+          "acVoltage": 240.275,
+          "acFrequency": 50.0486,
+          "apparentPower": 2977.86,
+          "activePower": 2976.29,
+          "reactivePower": 96.7775,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 10:30:53",
+        "totalActivePower": 3051.11,
+        "dcVoltage": 370.161,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4831020,
+        "temperature": 39.2225,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 12.6071,
+          "acVoltage": 242.221,
+          "acFrequency": 50.0583,
+          "apparentPower": 3052.81,
+          "activePower": 3051.11,
+          "reactivePower": 101.682,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 10:35:53",
+        "totalActivePower": 2547.84,
+        "dcVoltage": 370.176,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4831250,
+        "temperature": 39.0832,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 10.6467,
+          "acVoltage": 239.499,
+          "acFrequency": 50.0131,
+          "apparentPower": 2549.83,
+          "activePower": 2547.84,
+          "reactivePower": 100.538,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 10:40:53",
+        "totalActivePower": 3039.93,
+        "dcVoltage": 370.507,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4831470,
+        "temperature": 39.3551,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 12.6107,
+          "acVoltage": 240.897,
+          "acFrequency": 50.0285,
+          "apparentPower": 3041.81,
+          "activePower": 3039.93,
+          "reactivePower": 106.94,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 10:45:53",
+        "totalActivePower": 3058.65,
+        "dcVoltage": 369.316,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4831700,
+        "temperature": 39.4083,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 12.7327,
+          "acVoltage": 240.803,
+          "acFrequency": 50.0293,
+          "apparentPower": 3060.5,
+          "activePower": 3058.65,
+          "reactivePower": 106.542,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 10:50:53",
+        "totalActivePower": 3557.26,
+        "dcVoltage": 369.82,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4831970,
+        "temperature": 39.9676,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 14.657,
+          "acVoltage": 242.434,
+          "acFrequency": 50.0285,
+          "apparentPower": 3559.1,
+          "activePower": 3557.26,
+          "reactivePower": 114.448,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 10:55:53",
+        "totalActivePower": 3744.43,
+        "dcVoltage": 369.686,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4832270,
+        "temperature": 40.5848,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 15.3914,
+          "acVoltage": 243.36,
+          "acFrequency": 50.0375,
+          "apparentPower": 3746.48,
+          "activePower": 3744.43,
+          "reactivePower": 123.995,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 11:00:53",
+        "totalActivePower": 3718.03,
+        "dcVoltage": 369.729,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4832590,
+        "temperature": 41.158,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 15.3721,
+          "acVoltage": 241.949,
+          "acFrequency": 49.9873,
+          "apparentPower": 3719.79,
+          "activePower": 3718.03,
+          "reactivePower": 114.129,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 11:05:53",
+        "totalActivePower": 2424.99,
+        "dcVoltage": 369.405,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4832880,
+        "temperature": 40.6968,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 10.2115,
+          "acVoltage": 237.888,
+          "acFrequency": 49.9771,
+          "apparentPower": 2426.75,
+          "activePower": 2424.99,
+          "reactivePower": 92.5487,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 11:10:53",
+        "totalActivePower": 3537.34,
+        "dcVoltage": 370.388,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4833180,
+        "temperature": 41.4131,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 14.5871,
+          "acVoltage": 242.066,
+          "acFrequency": 49.993,
+          "apparentPower": 3539.06,
+          "activePower": 3537.34,
+          "reactivePower": 110.417,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 11:15:53",
+        "totalActivePower": 3981.2,
+        "dcVoltage": 369.197,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4833480,
+        "temperature": 41.9733,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 16.2533,
+          "acVoltage": 245.149,
+          "acFrequency": 49.9792,
+          "apparentPower": 3982.91,
+          "activePower": 3981.2,
+          "reactivePower": 116.757,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 11:20:53",
+        "totalActivePower": 4143.13,
+        "dcVoltage": 370.057,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4833790,
+        "temperature": 42.361,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 16.9315,
+          "acVoltage": 244.273,
+          "acFrequency": 50.0034,
+          "apparentPower": 4145.12,
+          "activePower": 4143.13,
+          "reactivePower": 128.244,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 11:25:53",
+        "totalActivePower": 3944.9,
+        "dcVoltage": 370.201,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4834140,
+        "temperature": 42.858,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 16.0691,
+          "acVoltage": 245.212,
+          "acFrequency": 50.0081,
+          "apparentPower": 3946.72,
+          "activePower": 3944.9,
+          "reactivePower": 119.817,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 11:30:53",
+        "totalActivePower": 4274.43,
+        "dcVoltage": 369.87,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4834490,
+        "temperature": 43.3949,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 17.4172,
+          "acVoltage": 245.844,
+          "acFrequency": 50.0074,
+          "apparentPower": 4276.46,
+          "activePower": 4274.43,
+          "reactivePower": 131.745,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 11:35:53",
+        "totalActivePower": 4190.45,
+        "dcVoltage": 370.007,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4834850,
+        "temperature": 43.8057,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 17.0201,
+          "acVoltage": 246.747,
+          "acFrequency": 50.007,
+          "apparentPower": 4192.52,
+          "activePower": 4190.45,
+          "reactivePower": 131.63,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 11:40:53",
+        "totalActivePower": 4224.91,
+        "dcVoltage": 370.121,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4835210,
+        "temperature": 44.1436,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 17.183,
+          "acVoltage": 245.926,
+          "acFrequency": 50.0033,
+          "apparentPower": 4227.04,
+          "activePower": 4224.91,
+          "reactivePower": 134.049,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 11:45:53",
+        "totalActivePower": 4316.26,
+        "dcVoltage": 369.963,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4835580,
+        "temperature": 44.5588,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 17.6014,
+          "acVoltage": 245.499,
+          "acFrequency": 49.9666,
+          "apparentPower": 4318.33,
+          "activePower": 4316.26,
+          "reactivePower": 133.795,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 11:50:53",
+        "totalActivePower": 4336.03,
+        "dcVoltage": 370.341,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4835940,
+        "temperature": 44.8136,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 17.6381,
+          "acVoltage": 245.198,
+          "acFrequency": 50.0181,
+          "apparentPower": 4337.87,
+          "activePower": 4336.03,
+          "reactivePower": 126.459,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 11:55:53",
+        "totalActivePower": 4523.03,
+        "dcVoltage": 369.733,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4836320,
+        "temperature": 45.4234,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 18.3233,
+          "acVoltage": 246.829,
+          "acFrequency": 50.0329,
+          "apparentPower": 4524.88,
+          "activePower": 4523.03,
+          "reactivePower": 129.463,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 12:00:53",
+        "totalActivePower": 3333.24,
+        "dcVoltage": 369.881,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4836680,
+        "temperature": 45.0965,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 13.6894,
+          "acVoltage": 243.922,
+          "acFrequency": 49.9859,
+          "apparentPower": 3335.1,
+          "activePower": 3333.24,
+          "reactivePower": 111.306,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 12:05:53",
+        "totalActivePower": 4376.81,
+        "dcVoltage": 369.561,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4837030,
+        "temperature": 45.5728,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 17.757,
+          "acVoltage": 246.359,
+          "acFrequency": 50.0187,
+          "apparentPower": 4378.52,
+          "activePower": 4376.81,
+          "reactivePower": 122.201,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 12:10:53",
+        "totalActivePower": 3876.6,
+        "dcVoltage": 370.099,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4837420,
+        "temperature": 45.9329,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 15.9017,
+          "acVoltage": 243.768,
+          "acFrequency": 49.9744,
+          "apparentPower": 3878.62,
+          "activePower": 3876.6,
+          "reactivePower": 125.224,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 12:15:53",
+        "totalActivePower": 3784.2,
+        "dcVoltage": 369.806,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4837790,
+        "temperature": 45.878,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 15.5639,
+          "acVoltage": 242.792,
+          "acFrequency": 50.0153,
+          "apparentPower": 3785.96,
+          "activePower": 3784.2,
+          "reactivePower": 115.277,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 12:20:53",
+        "totalActivePower": 4800.72,
+        "dcVoltage": 369.786,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4838180,
+        "temperature": 47.0335,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 19.4612,
+          "acVoltage": 246.644,
+          "acFrequency": 49.9975,
+          "apparentPower": 4802.55,
+          "activePower": 4800.72,
+          "reactivePower": 132.761,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 12:25:53",
+        "totalActivePower": 4555.43,
+        "dcVoltage": 370.235,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4838600,
+        "temperature": 47.3778,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 18.5936,
+          "acVoltage": 244.35,
+          "acFrequency": 50.0056,
+          "apparentPower": 4557.37,
+          "activePower": 4555.43,
+          "reactivePower": 132.774,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 12:30:53",
+        "totalActivePower": 4822.12,
+        "dcVoltage": 369.393,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4839000,
+        "temperature": 47.9436,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 19.7228,
+          "acVoltage": 245.496,
+          "acFrequency": 49.9634,
+          "apparentPower": 4824.25,
+          "activePower": 4822.12,
+          "reactivePower": 143.423,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 12:35:53",
+        "totalActivePower": 4796.18,
+        "dcVoltage": 369.993,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4839410,
+        "temperature": 48.2136,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 19.6014,
+          "acVoltage": 245.156,
+          "acFrequency": 49.9949,
+          "apparentPower": 4798.38,
+          "activePower": 4796.18,
+          "reactivePower": 145.292,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 12:40:53",
+        "totalActivePower": 3937.27,
+        "dcVoltage": 370.98,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4839800,
+        "temperature": 47.5716,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 16.2994,
+          "acVoltage": 241.552,
+          "acFrequency": 49.9866,
+          "apparentPower": 3939.74,
+          "activePower": 3937.27,
+          "reactivePower": 139.498,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 12:45:53",
+        "totalActivePower": 4934.06,
+        "dcVoltage": 369.6,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4840200,
+        "temperature": 48.859,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 20.12,
+          "acVoltage": 244.764,
+          "acFrequency": 50.0171,
+          "apparentPower": 4936.01,
+          "activePower": 4934.06,
+          "reactivePower": 138.496,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 12:50:53",
+        "totalActivePower": 3560.01,
+        "dcVoltage": 369.961,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4840610,
+        "temperature": 48.1858,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 14.8925,
+          "acVoltage": 238.568,
+          "acFrequency": 49.9859,
+          "apparentPower": 3562.03,
+          "activePower": 3560.01,
+          "reactivePower": 120.009,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 12:55:53",
+        "totalActivePower": 5207.98,
+        "dcVoltage": 370.108,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4841020,
+        "temperature": 49.8047,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 21.3384,
+          "acVoltage": 244.463,
+          "acFrequency": 49.947,
+          "apparentPower": 5210.24,
+          "activePower": 5207.98,
+          "reactivePower": 153.405,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 13:00:53",
+        "totalActivePower": 4668.81,
+        "dcVoltage": 371.232,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4841470,
+        "temperature": 50.1534,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 19.2255,
+          "acVoltage": 242.378,
+          "acFrequency": 49.975,
+          "apparentPower": 4670.97,
+          "activePower": 4668.81,
+          "reactivePower": 142.171,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 13:05:53",
+        "totalActivePower": 5265.16,
+        "dcVoltage": 370.087,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4841900,
+        "temperature": 50.7353,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 21.4686,
+          "acVoltage": 244.313,
+          "acFrequency": 49.9923,
+          "apparentPower": 5267.02,
+          "activePower": 5265.16,
+          "reactivePower": 140.218,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 13:10:53",
+        "totalActivePower": 5258.3,
+        "dcVoltage": 370.286,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4842350,
+        "temperature": 51.1868,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 21.4252,
+          "acVoltage": 244.584,
+          "acFrequency": 49.9964,
+          "apparentPower": 5260.07,
+          "activePower": 5258.3,
+          "reactivePower": 136.486,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 13:15:53",
+        "totalActivePower": 5281.98,
+        "dcVoltage": 370.035,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4842800,
+        "temperature": 51.5946,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 21.6118,
+          "acVoltage": 244.476,
+          "acFrequency": 49.9798,
+          "apparentPower": 5284.33,
+          "activePower": 5281.98,
+          "reactivePower": 157.401,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 13:20:53",
+        "totalActivePower": 5203.5,
+        "dcVoltage": 370.349,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4843250,
+        "temperature": 51.7037,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 21.1718,
+          "acVoltage": 245.63,
+          "acFrequency": 50.0122,
+          "apparentPower": 5205.41,
+          "activePower": 5203.5,
+          "reactivePower": 140.847,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 13:25:53",
+        "totalActivePower": 5166.08,
+        "dcVoltage": 369.475,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4843690,
+        "temperature": 51.5692,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 21.2112,
+          "acVoltage": 244.182,
+          "acFrequency": 49.9729,
+          "apparentPower": 5168.4,
+          "activePower": 5166.08,
+          "reactivePower": 154.721,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 13:30:53",
+        "totalActivePower": 5175.51,
+        "dcVoltage": 369.149,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4844130,
+        "temperature": 52.1355,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 21.1751,
+          "acVoltage": 245.015,
+          "acFrequency": 49.9726,
+          "apparentPower": 5177.81,
+          "activePower": 5175.51,
+          "reactivePower": 154.343,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 13:35:53",
+        "totalActivePower": 4006.84,
+        "dcVoltage": 369.903,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4844570,
+        "temperature": 51.8095,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 16.6338,
+          "acVoltage": 241.292,
+          "acFrequency": 49.9714,
+          "apparentPower": 4009.11,
+          "activePower": 4006.84,
+          "reactivePower": 135.017,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 13:40:53",
+        "totalActivePower": 4545.15,
+        "dcVoltage": 370.097,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4844980,
+        "temperature": 52.0444,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 18.7456,
+          "acVoltage": 242.332,
+          "acFrequency": 49.9776,
+          "apparentPower": 4547.21,
+          "activePower": 4545.15,
+          "reactivePower": 137.052,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 13:45:53",
+        "totalActivePower": 5377.13,
+        "dcVoltage": 370.384,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4845410,
+        "temperature": 52.9502,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 21.8439,
+          "acVoltage": 245.779,
+          "acFrequency": 50.0149,
+          "apparentPower": 5379.42,
+          "activePower": 5377.13,
+          "reactivePower": 156.931,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 13:50:53",
+        "totalActivePower": 4719.43,
+        "dcVoltage": 370.23,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4845830,
+        "temperature": 51.9658,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 19.213,
+          "acVoltage": 245.216,
+          "acFrequency": 50.0416,
+          "apparentPower": 4721.39,
+          "activePower": 4719.43,
+          "reactivePower": 136.065,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 13:55:53",
+        "totalActivePower": 3659.62,
+        "dcVoltage": 369.642,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4846200,
+        "temperature": 51.0445,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 15.167,
+          "acVoltage": 241.911,
+          "acFrequency": 50.0107,
+          "apparentPower": 3661.44,
+          "activePower": 3659.62,
+          "reactivePower": 115.517,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 14:00:53",
+        "totalActivePower": 4515.12,
+        "dcVoltage": 369.603,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4846570,
+        "temperature": 51.3964,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 18.5402,
+          "acVoltage": 244.177,
+          "acFrequency": 49.9967,
+          "apparentPower": 4517.3,
+          "activePower": 4515.12,
+          "reactivePower": 140.172,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 14:05:53",
+        "totalActivePower": 4594.39,
+        "dcVoltage": 369.638,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4846970,
+        "temperature": 51.7237,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 18.8341,
+          "acVoltage": 244.376,
+          "acFrequency": 49.9848,
+          "apparentPower": 4596.38,
+          "activePower": 4594.39,
+          "reactivePower": 135.492,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 14:10:53",
+        "totalActivePower": 4934.04,
+        "dcVoltage": 370.252,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4847380,
+        "temperature": 52.0093,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 20.1051,
+          "acVoltage": 244.871,
+          "acFrequency": 49.9798,
+          "apparentPower": 4936.2,
+          "activePower": 4934.04,
+          "reactivePower": 146.017,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 14:15:53",
+        "totalActivePower": 5047.56,
+        "dcVoltage": 370.559,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4847800,
+        "temperature": 52.4439,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 20.4913,
+          "acVoltage": 245.588,
+          "acFrequency": 49.9941,
+          "apparentPower": 5049.49,
+          "activePower": 5047.56,
+          "reactivePower": 139.659,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 14:20:53",
+        "totalActivePower": 4930.09,
+        "dcVoltage": 369.819,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4848200,
+        "temperature": 52.1523,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 20.0802,
+          "acVoltage": 245.33,
+          "acFrequency": 49.997,
+          "apparentPower": 4932.02,
+          "activePower": 4930.09,
+          "reactivePower": 137.813,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 14:25:53",
+        "totalActivePower": 4774.64,
+        "dcVoltage": 371.339,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4848640,
+        "temperature": 52.7281,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 19.621,
+          "acVoltage": 243.143,
+          "acFrequency": 49.9576,
+          "apparentPower": 4776.65,
+          "activePower": 4774.64,
+          "reactivePower": 138.632,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 14:30:53",
+        "totalActivePower": 4539.97,
+        "dcVoltage": 369.431,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4849070,
+        "temperature": 52.9159,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 18.6394,
+          "acVoltage": 243.472,
+          "acFrequency": 49.9515,
+          "apparentPower": 4542.16,
+          "activePower": 4539.97,
+          "reactivePower": 141.169,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 14:35:53",
+        "totalActivePower": 4502.67,
+        "dcVoltage": 369.692,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4849470,
+        "temperature": 52.6339,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 18.548,
+          "acVoltage": 243.242,
+          "acFrequency": 49.9629,
+          "apparentPower": 4504.72,
+          "activePower": 4502.67,
+          "reactivePower": 136.059,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 14:40:53",
+        "totalActivePower": 4407.08,
+        "dcVoltage": 369.949,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4849840,
+        "temperature": 51.9812,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 18.1091,
+          "acVoltage": 243.28,
+          "acFrequency": 49.9844,
+          "apparentPower": 4409.22,
+          "activePower": 4407.08,
+          "reactivePower": 137.66,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 14:45:53",
+        "totalActivePower": 4342.29,
+        "dcVoltage": 370.277,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4850200,
+        "temperature": 51.5485,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 17.7565,
+          "acVoltage": 243.956,
+          "acFrequency": 49.9957,
+          "apparentPower": 4344.12,
+          "activePower": 4342.29,
+          "reactivePower": 126.369,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 14:50:53",
+        "totalActivePower": 4360.74,
+        "dcVoltage": 369.855,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4850560,
+        "temperature": 51.5751,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 17.9161,
+          "acVoltage": 243.487,
+          "acFrequency": 50.0292,
+          "apparentPower": 4362.86,
+          "activePower": 4360.74,
+          "reactivePower": 136.042,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 14:55:53",
+        "totalActivePower": 4223.14,
+        "dcVoltage": 370.076,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4850940,
+        "temperature": 51.5158,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 17.2792,
+          "acVoltage": 244.856,
+          "acFrequency": 50.0131,
+          "apparentPower": 4225.12,
+          "activePower": 4223.14,
+          "reactivePower": 129.494,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 15:00:53",
+        "totalActivePower": 3277.12,
+        "dcVoltage": 370.295,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4851260,
+        "temperature": 50.266,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 13.3927,
+          "acVoltage": 244.945,
+          "acFrequency": 49.9777,
+          "apparentPower": 3278.81,
+          "activePower": 3277.12,
+          "reactivePower": 105.351,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 15:05:53",
+        "totalActivePower": 3310.55,
+        "dcVoltage": 369.861,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4851540,
+        "temperature": 49.745,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 13.5396,
+          "acVoltage": 243.994,
+          "acFrequency": 50.0316,
+          "apparentPower": 3312.41,
+          "activePower": 3310.55,
+          "reactivePower": 111.037,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 15:10:53",
+        "totalActivePower": 3269.34,
+        "dcVoltage": 369.871,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4851820,
+        "temperature": 49.2756,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 13.4218,
+          "acVoltage": 244.29,
+          "acFrequency": 49.9796,
+          "apparentPower": 3271.54,
+          "activePower": 3269.34,
+          "reactivePower": 119.823,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 15:15:53",
+        "totalActivePower": 3450.26,
+        "dcVoltage": 369.915,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4852100,
+        "temperature": 49.0547,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 14.1757,
+          "acVoltage": 243.911,
+          "acFrequency": 49.9869,
+          "apparentPower": 3452.09,
+          "activePower": 3450.26,
+          "reactivePower": 112.616,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 15:20:53",
+        "totalActivePower": 2714.94,
+        "dcVoltage": 370.164,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4852380,
+        "temperature": 48.7035,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 11.3078,
+          "acVoltage": 239.483,
+          "acFrequency": 50.0088,
+          "apparentPower": 2716.9,
+          "activePower": 2714.94,
+          "reactivePower": 103.147,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 15:25:53",
+        "totalActivePower": 3999.8,
+        "dcVoltage": 369.479,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4852610,
+        "temperature": 48.8331,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 16.2708,
+          "acVoltage": 245.709,
+          "acFrequency": 49.9909,
+          "apparentPower": 4001.81,
+          "activePower": 3999.8,
+          "reactivePower": 126.805,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 15:30:53",
+        "totalActivePower": 3636.76,
+        "dcVoltage": 370.035,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4852940,
+        "temperature": 49.0003,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 14.8224,
+          "acVoltage": 245.335,
+          "acFrequency": 50.0068,
+          "apparentPower": 3638.64,
+          "activePower": 3636.76,
+          "reactivePower": 116.985,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 15:35:53",
+        "totalActivePower": 3053.02,
+        "dcVoltage": 370.101,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4853230,
+        "temperature": 48.5631,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 12.6887,
+          "acVoltage": 240.729,
+          "acFrequency": 49.9988,
+          "apparentPower": 3055.16,
+          "activePower": 3053.02,
+          "reactivePower": 114.316,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 15:40:53",
+        "totalActivePower": 3095.23,
+        "dcVoltage": 370.018,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4853510,
+        "temperature": 48.3814,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 12.8007,
+          "acVoltage": 242.456,
+          "acFrequency": 49.9886,
+          "apparentPower": 3097.2,
+          "activePower": 3095.23,
+          "reactivePower": 110.353,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 15:45:53",
+        "totalActivePower": 3121.95,
+        "dcVoltage": 370.316,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4853780,
+        "temperature": 48.0142,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 12.9028,
+          "acVoltage": 241.701,
+          "acFrequency": 50.0054,
+          "apparentPower": 3124.04,
+          "activePower": 3121.95,
+          "reactivePower": 114.282,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 15:50:53",
+        "totalActivePower": 2609.65,
+        "dcVoltage": 370.055,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4854020,
+        "temperature": 47.4541,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 10.8198,
+          "acVoltage": 241.402,
+          "acFrequency": 49.9838,
+          "apparentPower": 2611.45,
+          "activePower": 2609.65,
+          "reactivePower": 96.8183,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 15:55:53",
+        "totalActivePower": 2744.45,
+        "dcVoltage": 369.995,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4854260,
+        "temperature": 47.2819,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 11.2707,
+          "acVoltage": 243.674,
+          "acFrequency": 49.9945,
+          "apparentPower": 2746.56,
+          "activePower": 2744.45,
+          "reactivePower": 107.484,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 16:00:53",
+        "totalActivePower": 2869.46,
+        "dcVoltage": 370.792,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4854500,
+        "temperature": 47.2194,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 11.7338,
+          "acVoltage": 244.49,
+          "acFrequency": 50.0301,
+          "apparentPower": 2871.49,
+          "activePower": 2869.46,
+          "reactivePower": 108.124,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 16:05:53",
+        "totalActivePower": 2352.59,
+        "dcVoltage": 369.859,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4854740,
+        "temperature": 46.8298,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 9.79839,
+          "acVoltage": 240.07,
+          "acFrequency": 50.0406,
+          "apparentPower": 2354.58,
+          "activePower": 2352.59,
+          "reactivePower": 96.6131,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 16:10:53",
+        "totalActivePower": 2128.11,
+        "dcVoltage": 370.398,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4854870,
+        "temperature": 45.8578,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 8.89836,
+          "acVoltage": 239.374,
+          "acFrequency": 49.9944,
+          "apparentPower": 2130.25,
+          "activePower": 2128.11,
+          "reactivePower": 95.3941,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 16:15:53",
+        "totalActivePower": 3488.04,
+        "dcVoltage": 370.466,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4855040,
+        "temperature": 45.9197,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 14.2792,
+          "acVoltage": 244.246,
+          "acFrequency": 50.0209,
+          "apparentPower": 3490.1,
+          "activePower": 3488.04,
+          "reactivePower": 119.785,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 16:20:53",
+        "totalActivePower": 1922.42,
+        "dcVoltage": 371.021,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4855250,
+        "temperature": 45.6312,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 8.00805,
+          "acVoltage": 239.814,
+          "acFrequency": 49.9846,
+          "apparentPower": 1924.85,
+          "activePower": 1922.42,
+          "reactivePower": 96.7734,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 16:25:53",
+        "totalActivePower": 2574.14,
+        "dcVoltage": 370.145,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4855530,
+        "temperature": 47.0457,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 10.6609,
+          "acVoltage": 241.306,
+          "acFrequency": 49.9644,
+          "apparentPower": 2576.12,
+          "activePower": 2574.14,
+          "reactivePower": 100.827,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 16:30:53",
+        "totalActivePower": 3825.55,
+        "dcVoltage": 370.275,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4855820,
+        "temperature": 47.4365,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 15.5283,
+          "acVoltage": 246.283,
+          "acFrequency": 49.9905,
+          "apparentPower": 3827.64,
+          "activePower": 3825.55,
+          "reactivePower": 126.562,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 16:35:53",
+        "totalActivePower": 3352.05,
+        "dcVoltage": 369.865,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4856070,
+        "temperature": 46.6484,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 13.9087,
+          "acVoltage": 241.112,
+          "acFrequency": 49.9723,
+          "apparentPower": 3353.93,
+          "activePower": 3352.05,
+          "reactivePower": 112.052,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 16:40:53",
+        "totalActivePower": 3414.58,
+        "dcVoltage": 369.922,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4856360,
+        "temperature": 47.435,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 14.0692,
+          "acVoltage": 242.591,
+          "acFrequency": 49.9854,
+          "apparentPower": 3416.44,
+          "activePower": 3414.58,
+          "reactivePower": 112.546,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 16:45:53",
+        "totalActivePower": 1516.94,
+        "dcVoltage": 370.08,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4856510,
+        "temperature": 45.591,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 6.41714,
+          "acVoltage": 236.415,
+          "acFrequency": 49.9774,
+          "apparentPower": 1519.49,
+          "activePower": 1516.94,
+          "reactivePower": 87.8643,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 16:50:53",
+        "totalActivePower": 3607.82,
+        "dcVoltage": 369.798,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4856760,
+        "temperature": 47.0984,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 14.7721,
+          "acVoltage": 244.03,
+          "acFrequency": 49.9806,
+          "apparentPower": 3609.84,
+          "activePower": 3607.82,
+          "reactivePower": 120.594,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 16:55:53",
+        "totalActivePower": 3052.25,
+        "dcVoltage": 369.994,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4857040,
+        "temperature": 46.9353,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 12.6255,
+          "acVoltage": 242.188,
+          "acFrequency": 49.9735,
+          "apparentPower": 3054.19,
+          "activePower": 3052.25,
+          "reactivePower": 108.69,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 17:00:53",
+        "totalActivePower": 2865.74,
+        "dcVoltage": 370.731,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4857300,
+        "temperature": 46.701,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 11.8789,
+          "acVoltage": 241.495,
+          "acFrequency": 50.0657,
+          "apparentPower": 2867.7,
+          "activePower": 2865.74,
+          "reactivePower": 106.038,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 17:05:53",
+        "totalActivePower": 2731.2,
+        "dcVoltage": 370.193,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4857540,
+        "temperature": 46.5172,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 11.3029,
+          "acVoltage": 241.666,
+          "acFrequency": 50.0182,
+          "apparentPower": 2733.33,
+          "activePower": 2731.2,
+          "reactivePower": 108.037,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 17:10:53",
+        "totalActivePower": 2761.32,
+        "dcVoltage": 369.964,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4857770,
+        "temperature": 46.452,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 11.4878,
+          "acVoltage": 240.635,
+          "acFrequency": 49.9906,
+          "apparentPower": 2763.31,
+          "activePower": 2761.32,
+          "reactivePower": 104.755,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 17:15:53",
+        "totalActivePower": 1216.68,
+        "dcVoltage": 370.133,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4858000,
+        "temperature": 45.9394,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 5.13874,
+          "acVoltage": 237.192,
+          "acFrequency": 50.032,
+          "apparentPower": 1219.36,
+          "activePower": 1216.68,
+          "reactivePower": 80.8356,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 17:20:53",
+        "totalActivePower": 3179.35,
+        "dcVoltage": 370.437,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4858230,
+        "temperature": 46.5119,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 13.1849,
+          "acVoltage": 241.05,
+          "acFrequency": 49.9813,
+          "apparentPower": 3181.33,
+          "activePower": 3179.35,
+          "reactivePower": 112.263,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 17:25:53",
+        "totalActivePower": 1365.36,
+        "dcVoltage": 369.977,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4858420,
+        "temperature": 45.316,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 5.81075,
+          "acVoltage": 235.697,
+          "acFrequency": 49.9577,
+          "apparentPower": 1368.15,
+          "activePower": 1365.36,
+          "reactivePower": 87.4277,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 17:30:53",
+        "totalActivePower": 1972.93,
+        "dcVoltage": 369.646,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4858550,
+        "temperature": 45.1793,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 8.29766,
+          "acVoltage": 237.905,
+          "acFrequency": 49.9809,
+          "apparentPower": 1975.14,
+          "activePower": 1972.93,
+          "reactivePower": 93.4828,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 17:35:53",
+        "totalActivePower": 1268.18,
+        "dcVoltage": 370.201,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4858740,
+        "temperature": 44.9138,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 5.38012,
+          "acVoltage": 236,
+          "acFrequency": 49.9589,
+          "apparentPower": 1270.97,
+          "activePower": 1268.18,
+          "reactivePower": 84.1315,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 17:40:53",
+        "totalActivePower": 1409.04,
+        "dcVoltage": 369.806,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4858850,
+        "temperature": 44.5329,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 6.02259,
+          "acVoltage": 234.259,
+          "acFrequency": 49.9277,
+          "apparentPower": 1411.38,
+          "activePower": 1409.04,
+          "reactivePower": 81.1068,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 17:45:53",
+        "totalActivePower": 927.372,
+        "dcVoltage": 369.669,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4859010,
+        "temperature": 44.3084,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 4.01015,
+          "acVoltage": 231.994,
+          "acFrequency": 49.9729,
+          "apparentPower": 930.406,
+          "activePower": 927.372,
+          "reactivePower": 75.0768,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 17:50:53",
+        "totalActivePower": 988.815,
+        "dcVoltage": 369.646,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4859090,
+        "temperature": 43.8505,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 4.23893,
+          "acVoltage": 234.195,
+          "acFrequency": 49.9883,
+          "apparentPower": 991.835,
+          "activePower": 988.815,
+          "reactivePower": 77.3455,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 17:55:53",
+        "totalActivePower": 1002.02,
+        "dcVoltage": 369.991,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4859170,
+        "temperature": 43.5516,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 4.29269,
+          "acVoltage": 234.163,
+          "acFrequency": 49.9902,
+          "apparentPower": 1005.24,
+          "activePower": 1002.02,
+          "reactivePower": 80.4778,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 18:00:53",
+        "totalActivePower": 1338.43,
+        "dcVoltage": 369.805,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4859330,
+        "temperature": 44.0407,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 5.71415,
+          "acVoltage": 234.592,
+          "acFrequency": 50.0279,
+          "apparentPower": 1341.12,
+          "activePower": 1338.43,
+          "reactivePower": 84.8393,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 18:05:53",
+        "totalActivePower": 1011.55,
+        "dcVoltage": 370.01,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4859430,
+        "temperature": 43.3541,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 4.31745,
+          "acVoltage": 234.759,
+          "acFrequency": 50.0149,
+          "apparentPower": 1015.11,
+          "activePower": 1011.55,
+          "reactivePower": 84.8749,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 18:10:53",
+        "totalActivePower": 2112.15,
+        "dcVoltage": 370.213,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4859550,
+        "temperature": 43.5679,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 8.87575,
+          "acVoltage": 238.217,
+          "acFrequency": 49.9713,
+          "apparentPower": 2114.22,
+          "activePower": 2112.15,
+          "reactivePower": 93.6995,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 18:15:53",
+        "totalActivePower": 1615.12,
+        "dcVoltage": 369.594,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4859690,
+        "temperature": 43.4008,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 6.84825,
+          "acVoltage": 235.934,
+          "acFrequency": 49.984,
+          "apparentPower": 1617.76,
+          "activePower": 1615.12,
+          "reactivePower": 92.339,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 18:20:53",
+        "totalActivePower": 1604.83,
+        "dcVoltage": 371.048,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4859810,
+        "temperature": 43.2662,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 6.81319,
+          "acVoltage": 235.798,
+          "acFrequency": 49.9945,
+          "apparentPower": 1606.99,
+          "activePower": 1604.83,
+          "reactivePower": 83.2286,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 18:25:53",
+        "totalActivePower": 2630.7,
+        "dcVoltage": 370.446,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860030,
+        "temperature": 44.2638,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 11.0864,
+          "acVoltage": 237.384,
+          "acFrequency": 49.9843,
+          "apparentPower": 2632.5,
+          "activePower": 2630.7,
+          "reactivePower": 97.195,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 18:30:53",
+        "totalActivePower": 1095.72,
+        "dcVoltage": 370.143,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860160,
+        "temperature": 43.2326,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 4.70489,
+          "acVoltage": 233.516,
+          "acFrequency": 49.971,
+          "apparentPower": 1098.49,
+          "activePower": 1095.72,
+          "reactivePower": 77.8671,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 18:35:53",
+        "totalActivePower": 1126.34,
+        "dcVoltage": 370.11,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860250,
+        "temperature": 42.937,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 4.83575,
+          "acVoltage": 233.184,
+          "acFrequency": 49.9964,
+          "apparentPower": 1128.79,
+          "activePower": 1126.34,
+          "reactivePower": 74.3265,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 18:40:53",
+        "totalActivePower": 858.277,
+        "dcVoltage": 369.771,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860370,
+        "temperature": 42.871,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 3.73488,
+          "acVoltage": 230.742,
+          "acFrequency": 49.9802,
+          "apparentPower": 861.341,
+          "activePower": 858.277,
+          "reactivePower": 72.589,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 18:45:53",
+        "totalActivePower": 655.023,
+        "dcVoltage": 370.098,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860430,
+        "temperature": 42.588,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 2.86733,
+          "acVoltage": 230.117,
+          "acFrequency": 49.9861,
+          "apparentPower": 659.078,
+          "activePower": 655.023,
+          "reactivePower": 72.9945,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 18:50:53",
+        "totalActivePower": 738.9,
+        "dcVoltage": 370.637,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860490,
+        "temperature": 42.4522,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 3.23009,
+          "acVoltage": 229.889,
+          "acFrequency": 49.9751,
+          "apparentPower": 742.332,
+          "activePower": 738.9,
+          "reactivePower": 71.2988,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 18:55:53",
+        "totalActivePower": 678.297,
+        "dcVoltage": 370.137,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860560,
+        "temperature": 42.2998,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 2.98885,
+          "acVoltage": 228.141,
+          "acFrequency": 50.0125,
+          "apparentPower": 682.051,
+          "activePower": 678.297,
+          "reactivePower": 71.4617,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 19:00:53",
+        "totalActivePower": 524.979,
+        "dcVoltage": 369.957,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860610,
+        "temperature": 42.1629,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 2.33795,
+          "acVoltage": 226.526,
+          "acFrequency": 49.9827,
+          "apparentPower": 529.941,
+          "activePower": 524.979,
+          "reactivePower": 72.3565,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 19:05:53",
+        "totalActivePower": 199.331,
+        "dcVoltage": 369.914,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860640,
+        "temperature": 42.1097,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.925965,
+          "acVoltage": 227.72,
+          "acFrequency": 50.0073,
+          "apparentPower": 210.775,
+          "activePower": 199.331,
+          "reactivePower": 68.5066,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 19:10:53",
+        "totalActivePower": 93.7212,
+        "dcVoltage": 370.341,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860650,
+        "temperature": 42.0888,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.514595,
+          "acVoltage": 229.99,
+          "acFrequency": 49.9963,
+          "apparentPower": 118.327,
+          "activePower": 93.7212,
+          "reactivePower": 72.2329,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 19:15:53",
+        "totalActivePower": 18.2964,
+        "dcVoltage": 370.049,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860650,
+        "temperature": 42.0202,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.290085,
+          "acVoltage": 228.163,
+          "acFrequency": 49.9943,
+          "apparentPower": 66.1623,
+          "activePower": 18.2964,
+          "reactivePower": 63.5822,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 19:20:53",
+        "totalActivePower": 0,
+        "dcVoltage": 387.36,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860660,
+        "temperature": 39.426,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 228.815,
+          "acFrequency": 50.0018,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 19:25:53",
+        "totalActivePower": 0,
+        "dcVoltage": 233.858,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860660,
+        "temperature": 38.3066,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 229.446,
+          "acFrequency": 49.9704,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 19:30:53",
+        "totalActivePower": 0,
+        "dcVoltage": 311.702,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860660,
+        "temperature": 37.8114,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 229.222,
+          "acFrequency": 49.976,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 19:35:53",
+        "totalActivePower": 0,
+        "dcVoltage": 363.931,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860660,
+        "temperature": 37.4843,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 229.986,
+          "acFrequency": 49.9903,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 19:40:53",
+        "totalActivePower": 0,
+        "dcVoltage": 103.358,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860660,
+        "temperature": 36.9624,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 228.957,
+          "acFrequency": 49.9932,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 19:45:53",
+        "totalActivePower": 0,
+        "dcVoltage": 370.75,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860660,
+        "temperature": 38.5713,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.293858,
+          "acVoltage": 230.104,
+          "acFrequency": 50.0003,
+          "apparentPower": 67.5491,
+          "activePower": 0,
+          "reactivePower": 67.5351,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 19:50:53",
+        "totalActivePower": 0,
+        "dcVoltage": 355.415,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860660,
+        "temperature": 37.817,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 229.509,
+          "acFrequency": 50.0087,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 19:55:53",
+        "totalActivePower": 59.5744,
+        "dcVoltage": 370.038,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860660,
+        "temperature": 40.0446,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.400181,
+          "acVoltage": 229.281,
+          "acFrequency": 49.9813,
+          "apparentPower": 91.7898,
+          "activePower": 59.5744,
+          "reactivePower": 69.8302,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 20:00:53",
+        "totalActivePower": 67.4862,
+        "dcVoltage": 370.305,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860670,
+        "temperature": 40.2753,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.41339,
+          "acVoltage": 228.192,
+          "acFrequency": 49.9935,
+          "apparentPower": 94.3365,
+          "activePower": 67.4862,
+          "reactivePower": 65.9165,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 20:05:53",
+        "totalActivePower": 58.2043,
+        "dcVoltage": 370.098,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860670,
+        "temperature": 40.4189,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.383498,
+          "acVoltage": 228.444,
+          "acFrequency": 49.979,
+          "apparentPower": 87.6469,
+          "activePower": 58.2043,
+          "reactivePower": 65.5305,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 20:10:53",
+        "totalActivePower": 15.0938,
+        "dcVoltage": 369.933,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860670,
+        "temperature": 40.5192,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.297317,
+          "acVoltage": 229.087,
+          "acFrequency": 49.9865,
+          "apparentPower": 68.0838,
+          "activePower": 15.0938,
+          "reactivePower": 66.3896,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 20:15:53",
+        "totalActivePower": 11.0275,
+        "dcVoltage": 369.995,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860680,
+        "temperature": 39.832,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.288656,
+          "acVoltage": 229.591,
+          "acFrequency": 50.0081,
+          "apparentPower": 66.2743,
+          "activePower": 11.0275,
+          "reactivePower": 65.3505,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 20:20:53",
+        "totalActivePower": 0,
+        "dcVoltage": 381.675,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860680,
+        "temperature": 38.1728,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 230.126,
+          "acFrequency": 49.9875,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 20:25:53",
+        "totalActivePower": 8.96563,
+        "dcVoltage": 370.281,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860680,
+        "temperature": 40.4138,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.29458,
+          "acVoltage": 229.611,
+          "acFrequency": 50.0175,
+          "apparentPower": 67.6745,
+          "activePower": 8.96563,
+          "reactivePower": 67.078,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 20:30:53",
+        "totalActivePower": 1.84073,
+        "dcVoltage": 370.233,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860680,
+        "temperature": 40.3115,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0.285862,
+          "acVoltage": 228.082,
+          "acFrequency": 49.971,
+          "apparentPower": 65.1431,
+          "activePower": 1.84073,
+          "reactivePower": 65.1171,
+          "cosPhi": 1
+        }
+      },
+      {
+        "date": "2024-06-29 20:35:53",
+        "totalActivePower": 0,
+        "dcVoltage": 384.48,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860680,
+        "temperature": 37.1582,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 227.735,
+          "acFrequency": 49.9871,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 20:40:53",
+        "totalActivePower": 0,
+        "dcVoltage": 283.012,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860680,
+        "temperature": 36.5768,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 229.529,
+          "acFrequency": 50.0227,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 20:45:53",
+        "totalActivePower": 0,
+        "dcVoltage": 271.215,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860680,
+        "temperature": 35.9427,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 228.794,
+          "acFrequency": 49.9834,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 20:50:53",
+        "totalActivePower": 0,
+        "dcVoltage": 274.356,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860680,
+        "temperature": 35.5701,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 230.608,
+          "acFrequency": 49.9872,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 20:55:53",
+        "totalActivePower": 0,
+        "dcVoltage": 277.353,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860680,
+        "temperature": 35.3375,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 230.379,
+          "acFrequency": 49.9868,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 21:00:53",
+        "totalActivePower": 0,
+        "dcVoltage": 242.826,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860680,
+        "temperature": 35.1271,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 231.926,
+          "acFrequency": 49.955,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      },
+      {
+        "date": "2024-06-29 21:05:53",
+        "totalActivePower": 0,
+        "dcVoltage": 218.544,
+        "groundFaultResistance": 11000,
+        "powerLimit": 100,
+        "totalEnergy": 4860680,
+        "temperature": 34.933,
+        "inverterMode": "MPPT",
+        "operationMode": 0,
+        "L1Data": {
+          "acCurrent": 0,
+          "acVoltage": 231.964,
+          "acFrequency": 49.9639,
+          "apparentPower": 0,
+          "activePower": 0,
+          "reactivePower": 0,
+          "cosPhi": 0
+        }
+      }
+    ]
+  }
+}
