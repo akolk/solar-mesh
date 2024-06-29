@@ -1,0 +1,14 @@
+{
+  "reporters": {
+    "count": 1,
+    "list": [
+      {
+        "name": "Omvormer 1",
+        "manufacturer": "SolarEdge",
+        "model": "SE6000H-RW000BNN4",
+        "serialNumber": "740F2108-AC",
+        "kWpDC": null
+      }
+    ]
+  }
+}
