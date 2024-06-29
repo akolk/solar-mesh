@@ -31,6 +31,13 @@ sources:
             method: GET
             responseSample: ./jsons/inventory.response.json
             responseTypeName: Inventory
+          - type: Query
+            field: EquipmentData
+            path: /equipment/{env.SOLAREDGE_SITEID}/{args.serialno}/data.json
+            method: GET
+            responseSample: ./jsons/equipmentdata.response.json
+            queryParamsSample: ./jsons/time.queryParams.json
+            responseTypeName: EquipmentData            
             
     transforms:
       - prefix:
