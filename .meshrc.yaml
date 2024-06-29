@@ -25,6 +25,12 @@ sources:
             method: GET
             responseSample: ./jsons/SiteDetails.response.json
             responseTypeName: SiteDetail
+          - type: Query
+            field: Inventory
+            path: /site/{env.SOLAREDGE_SITEID}/inventory.json
+            method: GET
+            responseSample: ./jsons/inventory.response.json
+            responseTypeName: Inventory
             
     transforms:
       - prefix:
