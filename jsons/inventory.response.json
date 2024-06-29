@@ -1,0 +1,58 @@
+{
+  "Inventory": {
+    "meters": [
+      {
+        "name": "Importmeter",
+        "manufacturer": "SEDG",
+        "model": "MTR-240-3PC1-D-A-MW",
+        "firmwareVersion": "1.0.34",
+        "connectedTo": "Omvormer 1",
+        "connectedSolaredgeDeviceSN": "740F2108-AC",
+        "type": "Purchased",
+        "form": "physical",
+        "SN": "640106E7"
+      },
+      {
+        "name": "Exportmeter",
+        "manufacturer": "SEDG",
+        "model": "MTR-240-3PC1-D-A-MW",
+        "firmwareVersion": "1.0.34",
+        "connectedTo": "Omvormer 1",
+        "connectedSolaredgeDeviceSN": "740F2108-AC",
+        "type": "FeedIn",
+        "form": "physical",
+        "SN": "640106E7"
+      },
+      {
+        "name": "Verbruiksmeter",
+        "firmwareVersion": "",
+        "connectedTo": "Omvormer 1",
+        "connectedSolaredgeDeviceSN": "740F2108-AC",
+        "type": "Consumption",
+        "form": "virtual"
+      },
+      {
+        "name": "Eigen verbruik",
+        "firmwareVersion": "",
+        "connectedTo": "Omvormer 1",
+        "connectedSolaredgeDeviceSN": "740F2108-AC",
+        "type": "SelfConsumption",
+        "form": "virtual"
+      }
+    ],
+    "sensors": [],
+    "gateways": [],
+    "batteries": [],
+    "inverters": [
+      {
+        "name": "Omvormer 1",
+        "manufacturer": "SolarEdge",
+        "model": "SE6000H-RW000BNN4",
+        "communicationMethod": "WIFI",
+        "cpuVersion": "4.19.39",
+        "SN": "740F2108-AC",
+        "connectedOptimizers": 18
+      }
+    ]
+  }
+}
