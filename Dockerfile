@@ -7,7 +7,9 @@ RUN ln -s /usr/bin/python3 /usr/bin/python & \
 WORKDIR /myapp
 COPY package.json \
      .meshrc.yaml  .
-ADD jsons   .
+
+RUN mkdir jsons
+ADD jsons/*.json  jsons
 
 EXPOSE 80
 
