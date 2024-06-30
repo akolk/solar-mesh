@@ -3,9 +3,9 @@ FROM node:20
 LABEL org.opencontainers.image.description DESCRIPTION
 LABEL org.opencontainers.image.authors "Anjo KLABEL olk, anjo.kolk@gmail.com"
 LABEL org.opencontainers.image.created "2024-06-21 18:38:05+00:00"
-LABEL org.opencontainers.image.description": "Open-source graphql-mesh interface for Solar Edge API,
+LABEL org.opencontainers.image.description "Open-source graphql-mesh interface for Solar Edge API,
 #LABEL org.opencontainers.image.documentation": "https://www.home-assistant.io/docs/",
-LABEL org.opencontainers.image.licenses": "Apache License 2.0",
+LABEL org.opencontainers.image.licenses "Apache License 2.0",
 LABEL org.opencontainers.image.source "https://github.com/akolk/solar-mesh/core",
 LABEL org.opencontainers.image.title "Solar Mesh"
 #LABEL org.opencontainers.image.url": "https://www.home-assistant.io/",
