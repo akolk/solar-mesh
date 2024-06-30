@@ -33,10 +33,9 @@ sources:
             responseTypeName: Inventory
           - type: Query
             field: EquipmentData
-            path: /equipment/{env.SOLAREDGE_SITEID}/{args.serialno}/data.json
+            path: /equipment/{env.SOLAREDGE_SITEID}/{args.serialno}/data.json?startTime={args.startTime}&endTime={args.endTime}
             method: GET
             responseSample: ./jsons/equipmentdata.response.json
-            queryParamsSample: ./jsons/time.queryParams.json
             responseTypeName: EquipmentData            
             
     transforms:
