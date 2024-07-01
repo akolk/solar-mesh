@@ -34,6 +34,16 @@ sources:
           - type: Query
             field: EquipmentData
             path: /equipment/{env.SOLAREDGE_SITEID}/{args.serialno}/data.json?startTime={args.startTime}&endTime={args.endTime}
+            argTypeMap:
+              serialno:
+                type: string
+                nullable: false
+              startTime:
+                type: string
+                nullable: false
+              endTime:
+                type: string
+                nullable: false
             method: GET
             responseSample: ./jsons/equipmentdata.response.json
             responseTypeName: EquipmentData            
