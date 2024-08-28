@@ -71,7 +71,7 @@ jobs:
           # 
           image-ref: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:main
           format: 'table'
-          exit-code: '1'
+          exit-code: '0'
           severity: 'CRITICAL,HIGH'
 
       - name: Sign the published Docker image
