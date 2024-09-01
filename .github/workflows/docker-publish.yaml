@@ -64,6 +64,10 @@ jobs:
           cache-from: type=gha
           cache-to: type=gha,mode=max
           platforms: linux/amd64,linux/arm64
+
+      - name: Test with pytest
+        run: |
+          pytest --cov=./ --cov-report=xml
           
       - name: Scan Docker image with Trivy
         uses: aquasecurity/trivy-action@0.24.0
