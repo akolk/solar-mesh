@@ -24,5 +24,5 @@ COPY jsons  ./jsons
 
 EXPOSE 80
 
-RUN yarn install 
-CMD ["yarn", "mesh", "dev"]
+RUN npm install 
+CMD ["npm", "run", "build"]
