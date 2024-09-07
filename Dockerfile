@@ -25,4 +25,4 @@ COPY jsons  ./jsons
 EXPOSE 80
 
 RUN npm install 
-CMD ["npm", "run", "build"]
+CMD ["npm", "run", "start"]
