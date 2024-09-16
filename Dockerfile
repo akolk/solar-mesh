@@ -17,6 +17,6 @@ RUN yarn install
 
 COPY .meshrc.yaml .
 
-COPY jsons jsons
+COPY jsons ./jsons
      
 CMD ["yarn", "mesh", "dev"]
