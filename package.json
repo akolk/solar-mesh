@@ -11,7 +11,7 @@
     "@graphql-mesh/utils": "0.102.11",
     "@graphql-mesh/store": "0.102.12", 
     "@graphql-mesh/cross-helpers": "0.4.7",
-    "@graphql-mesh/types": "0.102.11",
+    "@graphql-mesh/types": "0.102.12",
     "@graphql-mesh/json-schema": "0.107.6",
     "@graphql-mesh/graphql": "0.102.15",
     "@graphql-mesh/openapi": "0.107.6",
