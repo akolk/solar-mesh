@@ -9,7 +9,7 @@
   "dependencies": {
     "@graphql-mesh/cli": "0.97.1",
     "@graphql-mesh/utils": "0.102.11",
-    "@graphql-mesh/store": "0.102.11", 
+    "@graphql-mesh/store": "0.102.12", 
     "@graphql-mesh/cross-helpers": "0.4.7",
     "@graphql-mesh/types": "0.102.11",
     "@graphql-mesh/json-schema": "0.107.6",
