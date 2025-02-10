@@ -6,7 +6,7 @@ serve:
   playgroundTitle: Solar Edge Playground
 
 sources:
-  - name P1METER
+  - name: P1METER
     handler:
       jsonSchema:
         endpoint: http://p1mon.internal.anjokolkcom:82
