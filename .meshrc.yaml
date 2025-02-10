@@ -17,6 +17,17 @@ sources:
             method: GET
             responseSample: ./jsons/p1meter.response.json
             responseTypeName: P1Meter
+  - name: WATERMETER
+    handler:
+      jsonSchema:
+        endpoint: http://watermeter.internal.anjokolk.com:82
+        operations:
+          - type: Query
+            field: watermeter
+            path: /watermeter/api/read
+            method: GET
+            responseSample: ./jsons/watermeter.response.json
+            responseTypeName: WaterMeter
   - name: SOLAR
     handler:
       jsonSchema:
