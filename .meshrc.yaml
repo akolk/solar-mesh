@@ -9,7 +9,7 @@ sources:
   - name: P1METER
     handler:
       jsonSchema:
-        endpoint: http://p1mon.internal.anjokolkcom:82
+        endpoint: http://p1mon.internal.anjokolk.com:82
         operations:
           - type: Query
             field: p1meter
