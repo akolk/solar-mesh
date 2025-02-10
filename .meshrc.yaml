@@ -13,7 +13,7 @@ sources:
         operations:
           - type: Query
             field: p1meter
-            path: /
+            path: /smartmeter/api/read
             method: GET
             responseSample: ./jsons/p1meter.response.json
             responseTypeName: P1Meter
