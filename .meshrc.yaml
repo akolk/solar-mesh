@@ -6,6 +6,13 @@ serve:
   playgroundTitle: Solar Edge Playground
 
 sources:
+  - name: NED
+    handler:
+      openapi:
+        source: https://api.ned.nl/v1/docs.json?spec_version=3
+        endpoint: https://api.ned.nl/
+        operationHeaders:
+          'X-AUTH-TOKEN':  '{env.NED_KEY}'
   - name: P1METER
     handler:
       jsonSchema:
