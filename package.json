@@ -37,6 +37,7 @@
     "graphql": "16.10.0"
   },
   "resolutions": {
-    "graphql": "16.10.0"
+    "graphql": "16.10.0",
+    "semver": "7.3.2"
   }
 }
