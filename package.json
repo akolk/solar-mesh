@@ -7,7 +7,7 @@
     "start": "mesh dev"
   },
   "dependencies": {
-    "@graphql-mesh/cli": "0.98.27",
+    "@graphql-mesh/cli": "0.99.0",
     "@graphql-mesh/utils": "0.103.19",
     "@graphql-mesh/store": "0.103.19", 
     "@graphql-mesh/cross-helpers": "0.4.10",
