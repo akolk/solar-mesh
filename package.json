@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@graphql-mesh/cli": "0.100.44",
-    "@graphql-mesh/utils": "0.104.32",
+    "@graphql-mesh/utils": "0.104.33",
     "@graphql-mesh/store": "0.104.35", 
     "@graphql-mesh/cross-helpers": "0.4.12",
     "@graphql-mesh/types": "0.104.25",
