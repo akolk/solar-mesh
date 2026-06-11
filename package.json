@@ -12,7 +12,7 @@
     "@graphql-mesh/store": "0.104.38", 
     "@graphql-mesh/cross-helpers": "0.4.14",
     "@graphql-mesh/types": "0.104.28",
-    "@graphql-mesh/json-schema": "0.109.42",
+    "@graphql-mesh/json-schema": "0.109.43",
     "@graphql-mesh/graphql": "0.104.40",
     "@graphql-mesh/openapi": "0.109.53",
     "@graphql-mesh/transform-rename": "0.105.37",
