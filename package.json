@@ -26,7 +26,7 @@
     "@graphql-mesh/plugin-http-details-extensions": "0.104.37",
     "@graphql-mesh/tuql": "0.105.29",
     "graphql-scalars": "1.25.0",
-    "@graphql-tools/utils": "10.11.0",
+    "@graphql-tools/utils": "11.2.2",
     "@graphql-mesh/config": "0.108.46",
     "@graphql-mesh/odata": "0.106.46",
     "@graphql-mesh/runtime": "0.106.39",
